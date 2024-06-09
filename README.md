@@ -1,2 +1,2 @@
 # my_json
-Implement your own JSON library
+实现自己版本的JSON
